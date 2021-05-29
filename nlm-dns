@@ -7,3 +7,10 @@ nl-sp-avs01.ao.nlmk
 wpad.ao.nlmk
 ftp.ao.nlmk
 ftp.old.nlmk
+
+###
+!sipexternal.nlmk.com
+!owa.nlmk.com
+!sip.nlmk.com
+!rdc.nlmk.ru
+!rdgw.nlmk.ru
