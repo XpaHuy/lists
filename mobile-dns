@@ -11,8 +11,8 @@ uploads.disquscdn.com
 disq.us
 c.disquscdn.com
 realtime.services.disqus.com
-android.clients.google.com
-android.l.google.com
+# android.clients.google.com
+# android.l.google.com
 firestore.googleapis.com
 firebaseremoteconfig.googleapis.com
 reserve-5a846.firebaseio.com
@@ -23,3 +23,8 @@ static.yandex.net
 www.msftconnecttest.com
 a.wotads.com
 dns.google.com
+*.pool.ntp.org
+dns.msftncsi.com
+myexternalip.com
+dcintl1.push.oppomobile.com
+dcintl3.push.oppomobile.com
