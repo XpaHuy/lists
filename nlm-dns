@@ -1,4 +1,4 @@
-nl-s-sfbwsext.nlmk.com
+# nl-s-sfbwsext.nlmk.com
 nl-s-sccmsup01.ao.nlmk
 nl-s-kms.ao.nlmk
 nl-s-sccmps01.ao.nlmk
@@ -9,6 +9,7 @@ ftp.ao.nlmk
 ftp.old.nlmk
 
 ###
+!nl-s-sfbwsext.nlmk.com
 !sipexternal.nlmk.com
 !owa.nlmk.com
 !sip.nlmk.com
