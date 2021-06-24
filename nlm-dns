@@ -11,9 +11,9 @@ ao.nlmk
 old.nlmk
 
 ###
-!nl-s-sfbwsext.nlmk.com
-!sipexternal.nlmk.com
-!owa.nlmk.com
-!sip.nlmk.com
-!rdc.nlmk.ru
-!rdgw.nlmk.ru
+# !nl-s-sfbwsext.nlmk.com
+# !sipexternal.nlmk.com
+# !owa.nlmk.com
+# !sip.nlmk.com
+# !rdc.nlmk.ru
+# !rdgw.nlmk.ru
