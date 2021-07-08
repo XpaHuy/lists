@@ -1,10 +1,10 @@
 # nl-s-sfbwsext.nlmk.com
 # nl-s-sccmsup01.ao.nlmk
-nl-s-kms.ao.nlmk
+# nl-s-kms.ao.nlmk
 nl-s-sccmps01.ao.nlmk
 nl-s-pmpapp.ao.nlmk
 nl-sp-avs01.ao.nlmk
-wpad.ao.nlmk
+# wpad.ao.nlmk
 ftp.ao.nlmk
 ftp.old.nlmk
 # ao.nlmk
