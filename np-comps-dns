@@ -1,7 +1,3 @@
-### Avast
-.avast.com
-.nos-avg.cz
-
 ### ads
 .doubleclick.net
 
@@ -10,11 +6,11 @@
 .old.nlmk
 
 ### Kaspersky
-# .kaspersky-labs.com
+.kaspersky-labs.com
 # .kaspersky.com
 dc.kaspersky.com
 .geoksn.kaspersky.com
-.ksn.kaspersky-labs.com
+# .ksn.kaspersky-labs.com
 
 ### Windows
 .data.microsoft.com
