@@ -1,13 +1,14 @@
-# nl-s-sfbwsext.nlmk.com
-# nl-s-sccmsup01.ao.nlmk
-# nl-s-kms.ao.nlmk
+nl-s-sfbwsext.nlmk.com
+nl-s-sccmsup01.ao.nlmk
+nl-s-kms.ao.nlmk
 nl-s-sccmps01.ao.nlmk
 nl-s-pmpapp.ao.nlmk
 nl-sp-avs01.ao.nlmk
-# wpad.ao.nlmk
+wpad.ao.nlmk
+wpad.old.nlmk
 ftp.ao.nlmk
 ftp.old.nlmk
-# ao.nlmk
+ao.nlmk
 old.nlmk
 
 ###
@@ -17,4 +18,4 @@ old.nlmk
 # !sip.nlmk.com
 # !rdc.nlmk.ru
 # !rdgw.nlmk.ru
-# !nl-s-sfbfe01.ao.nlmk
+nl-s-sfbfe01.ao.nlmk
