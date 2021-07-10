@@ -28,7 +28,7 @@ static.yandex.net
 www.msftconnecttest.com
 a.wotads.com
 dns.google.com
-*.pool.ntp.org
+# *.pool.ntp.org
 dns.msftncsi.com
 myexternalip.com
 dcintl1.push.oppomobile.com
