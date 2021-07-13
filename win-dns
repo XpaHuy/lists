@@ -13,6 +13,6 @@ ctldl.windowsupdate.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-browser.pipe.aria.microsoft.com
+# browser.pipe.aria.microsoft.com   skype
 www.msftconnecttest.com
 nexus.officeapps.live.com
