@@ -1,9 +1,9 @@
 static.yandex.net
 a.wotads.com
-dns.google.com
+# dns.google.com
 firestore.googleapis.com
 firebaseremoteconfig.googleapis.com
 reserve-5a846.firebaseio.com
 connectivitycheck.gstatic.com
-ndss.11.zyxel.ndmsystems.com
+# ndss.11.zyxel.ndmsystems.com
 detectportal.firefox.com
