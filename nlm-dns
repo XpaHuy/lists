@@ -1,18 +1,21 @@
-# nl-s-sfbwsext.nlmk.com
-# nl-s-sccmsup01.ao.nlmk
-# nl-s-kms.ao.nlmk
-# nl-s-sccmps01.ao.nlmk
-# nl-s-pmpapp.ao.nlmk
-# nl-sp-avs01.ao.nlmk
-# wpad.ao.nlmk
-# wpad.old.nlmk
-# ftp.ao.nlmk
-# ftp.old.nlmk
-# ao.nlmk
-# old.nlmk
-# pki.nlmk.com
-# nl-s-sfbfe01.ao.nlmk
-# g138.nlmk.ru
+nl-s-sfbwsext.nlmk.com
+nl-s-sccmsup01.ao.nlmk
+nl-s-kms.ao.nlmk
+nl-sp-sccmps01.ao.nlmk
+nl-s-pmpapp.ao.nlmk
+nl-sp-avs01.ao.nlmk
+wpad.ao.nlmk
+wpad.old.nlmk
+ftp.ao.nlmk
+ftp.old.nlmk
+ao.nlmk
+old.nlmk
+pki.nlmk.com
+nl-s-sfbfe01.ao.nlmk
+g138.nlmk.ru
+av.nlmk.com
+nl-s-sfbedge01.ao.nlmk
+nl-sp-mef02.ao.nlmk
 
 ###
 # !sipexternal.nlmk.com
